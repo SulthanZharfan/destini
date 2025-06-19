@@ -1,0 +1,27 @@
+com.example.destini_app-lifecycle-livedata-2.7.0-0 C:\Users\mabru\.gradle\caches\transforms-3\163c61e0bbf028508eaa53b7ffa7e3f4\transformed\lifecycle-livedata-2.7.0\res
+com.example.destini_app-core-runtime-2.2.0-1 C:\Users\mabru\.gradle\caches\transforms-3\2ed35a8bdc13bbc5522a7ffbfb92be3c\transformed\core-runtime-2.2.0\res
+com.example.destini_app-jetified-window-1.2.0-2 C:\Users\mabru\.gradle\caches\transforms-3\2fff300e94dd730b4ee6cf02e7fdfcd1\transformed\jetified-window-1.2.0\res
+com.example.destini_app-jetified-startup-runtime-1.1.1-3 C:\Users\mabru\.gradle\caches\transforms-3\35f7c4af1784495bc9bf21d6c534cfff\transformed\jetified-startup-runtime-1.1.1\res
+com.example.destini_app-lifecycle-livedata-core-2.7.0-4 C:\Users\mabru\.gradle\caches\transforms-3\3afb83fa3a60e59788a102a8b0723e81\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.destini_app-jetified-activity-1.8.1-5 C:\Users\mabru\.gradle\caches\transforms-3\4b7fd7d106a2566267612db9b483c2a1\transformed\jetified-activity-1.8.1\res
+com.example.destini_app-fragment-1.7.1-6 C:\Users\mabru\.gradle\caches\transforms-3\57d16660b1d63528d277476bb189798c\transformed\fragment-1.7.1\res
+com.example.destini_app-core-1.13.1-7 C:\Users\mabru\.gradle\caches\transforms-3\75787b02f41160966567006a21767997\transformed\core-1.13.1\res
+com.example.destini_app-jetified-annotation-experimental-1.4.0-8 C:\Users\mabru\.gradle\caches\transforms-3\838711f4f2ffa06ed4304d791944c5bd\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.destini_app-jetified-lifecycle-livedata-core-ktx-2.7.0-9 C:\Users\mabru\.gradle\caches\transforms-3\88385e7d882b9f3ae0d1fc353a7dc3d3\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.destini_app-jetified-savedstate-1.2.1-10 C:\Users\mabru\.gradle\caches\transforms-3\947fa5e7fe8b3d7cecf713b87e635e4c\transformed\jetified-savedstate-1.2.1\res
+com.example.destini_app-lifecycle-viewmodel-2.7.0-11 C:\Users\mabru\.gradle\caches\transforms-3\a5ab5558b21b1cb17e2236288833c0d1\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.destini_app-jetified-profileinstaller-1.3.1-12 C:\Users\mabru\.gradle\caches\transforms-3\a8cce15ef7a6c7067e3af085ae11ead1\transformed\jetified-profileinstaller-1.3.1\res
+com.example.destini_app-jetified-core-1.0.0-13 C:\Users\mabru\.gradle\caches\transforms-3\c4061a226597cd2759aae70c5b830ed8\transformed\jetified-core-1.0.0\res
+com.example.destini_app-jetified-tracing-1.2.0-14 C:\Users\mabru\.gradle\caches\transforms-3\c4d2757b3590bbfd9cd3ab56b38d7d47\transformed\jetified-tracing-1.2.0\res
+com.example.destini_app-lifecycle-runtime-2.7.0-15 C:\Users\mabru\.gradle\caches\transforms-3\d47a560b1e636088a7ec3941d7a93630\transformed\lifecycle-runtime-2.7.0\res
+com.example.destini_app-jetified-lifecycle-viewmodel-savedstate-2.7.0-16 C:\Users\mabru\.gradle\caches\transforms-3\e9e91629ebcbda6103f5284b4e9dbee0\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.destini_app-jetified-lifecycle-process-2.7.0-17 C:\Users\mabru\.gradle\caches\transforms-3\edcc69c4bd7497bd61160dc90616ccdb\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.destini_app-jetified-window-java-1.2.0-18 C:\Users\mabru\.gradle\caches\transforms-3\f2e0f5ce6004a0da4047ff7d2b8e5500\transformed\jetified-window-java-1.2.0\res
+com.example.destini_app-jetified-core-ktx-1.13.1-19 C:\Users\mabru\.gradle\caches\transforms-3\f94d106729cdc15887b5d413665d27a0\transformed\jetified-core-ktx-1.13.1\res
+com.example.destini_app-debug-20 E:\KULIAH\Universitas Pancasila\Semester 6\Prak.PBM\destini\destini_app\android\app\src\debug\res
+com.example.destini_app-main-21 E:\KULIAH\Universitas Pancasila\Semester 6\Prak.PBM\destini\destini_app\android\app\src\main\res
+com.example.destini_app-pngs-22 E:\KULIAH\Universitas Pancasila\Semester 6\Prak.PBM\destini\destini_app\build\app\generated\res\pngs\debug
+com.example.destini_app-resValues-23 E:\KULIAH\Universitas Pancasila\Semester 6\Prak.PBM\destini\destini_app\build\app\generated\res\resValues\debug
+com.example.destini_app-packageDebugResources-24 E:\KULIAH\Universitas Pancasila\Semester 6\Prak.PBM\destini\destini_app\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.destini_app-packageDebugResources-25 E:\KULIAH\Universitas Pancasila\Semester 6\Prak.PBM\destini\destini_app\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.destini_app-merged_res-26 E:\KULIAH\Universitas Pancasila\Semester 6\Prak.PBM\destini\destini_app\build\app\intermediates\merged_res\debug
